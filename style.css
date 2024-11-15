@@ -6,10 +6,21 @@ p {
 
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: x-large;
+    font-size: 100px;
     text-align: center;
+    color:antiquewhite;
+}
+
+a:link, a:visited{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: center;
+    background-color: dimgray;
+    color: antiquewhite;
+    padding: 14px 14px;
+    display: inline-block;
 }
 
 body {
-    background-image: "18.jpg";
+    background-image: url("18.jpg");
 }
