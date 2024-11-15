@@ -3,3 +3,9 @@ p {
     font-size: medium;
     text-align: center;
 }
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: center;
+}
